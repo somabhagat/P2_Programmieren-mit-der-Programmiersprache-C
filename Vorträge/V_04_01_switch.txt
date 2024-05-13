@@ -1,0 +1,11 @@
+Programm "Switch_case"
+{
+    Eingabe:x
+    switch(x)
+    {
+        3:  Ausgabe:"Sieg!"
+        2:  Ausgabe:"Unentschieden"
+        0:  Ausgabe:"Niederlage"
+        sonst:  Ausgabe:"Unzulässige Eingabe"
+    }
+}

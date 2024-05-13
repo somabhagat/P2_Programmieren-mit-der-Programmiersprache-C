@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715593713 source:c:\users\sbhagat\onedrive\onedrive - wbsedu\dokumente\p2_programmieren mit der programmiersprache c\vorträge\v_04_01_komplex\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
